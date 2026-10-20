@@ -6,7 +6,7 @@
     "README.md",
     "RELEASE_REVIEW.md",
     "examples/Localizable.xcstrings",
-    "examples/source-zh-Hans.json",
+    "examples/source-en-US.json",
     "localize.py",
     "media/animation.html",
     "media/hero.png",

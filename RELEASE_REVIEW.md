@@ -5,7 +5,7 @@ This initial source release packages the reusable workflow, portable agent skill
 ## Included material
 
 - New reusable localization CLI and a portable agent skill containing the same implementation.
-- Three fictional source strings, an empty example String Catalog, and public configuration without credentials.
+- Three fictional US English source strings in `examples/source-en-US.json`, an empty example String Catalog, and public configuration without credentials.
 - English README, an eight-second code-rendered video and GIF, a poster, an editable standalone HTML animation, and a catalog-label illustration.
 - One Rosettica empty-state screenshot from the October 8, 2026 distribution asset set, version 1.2.7. EXIF and textual PNG metadata were removed from the public copy and its embedded HTML resource. Image pixels were preserved.
 - Apache 2.0 code license, with the model's separate Gemma terms and app-branding ownership explained.

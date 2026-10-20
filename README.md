@@ -34,7 +34,7 @@ This first version writes Xcode String Catalogs. Its source registry and review-
 
 ## Run the fictional example
 
-Python 3.10+ on macOS is required. The CLI uses the standard library. The sample contains three fictional source strings and an empty catalog; no translations are fabricated for the demo.
+Python 3.10+ on macOS is required. The CLI uses the standard library. The sample contains three fictional US English source strings in [`examples/source-en-US.json`](examples/source-en-US.json) and an empty catalog. Its `sourceLocale` is `en` to match the catalog's English source language; Spanish and Japanese are translation targets. The English originals are retained without a model request.
 
 ```sh
 python3 localize.py --config project.json plan

@@ -1,9 +1,9 @@
 {
-  "source": "examples/source-zh-Hans.json",
+  "source": "examples/source-en-US.json",
   "catalog": "examples/Localizable.xcstrings",
   "cache": "work/translations.json",
-  "sourceLocale": "zh-Hans",
-  "sourceLanguageName": "Chinese (Simplified)",
+  "sourceLocale": "en",
+  "sourceLanguageName": "English (United States)",
   "locales": ["en", "es", "ja"],
   "localeNames": {
     "en": "English",

@@ -1,14 +1,14 @@
 {
   "home.title": {
-    "source": "欢迎使用 SampleApp",
+    "source": "Welcome to SampleApp",
     "context": "Title at the top of the fictional app's home screen. Keep SampleApp unchanged."
   },
   "import.action": {
-    "source": "导入文件",
+    "source": "Import a file",
     "context": "Button that opens a document picker in the fictional app."
   },
   "import.file": {
-    "source": "正在导入：%@",
+    "source": "Importing: %@",
     "context": "Status label showing an imported filename. Preserve the %@ placeholder."
   }
 }
