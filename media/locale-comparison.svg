@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">One interface, three language previews</title>
+  <desc id="desc">English, Spanish, and Japanese Rosettica catalog labels displayed in matching UI cards.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#06201f"/><stop offset="1" stop-color="#0e615b"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#001b1a" flood-opacity=".5"/></filter>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <text x="64" y="73" fill="#9fe8ca" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" font-weight="700">ROSETTICA · STRING CATALOG PREVIEW</text>
+  <text x="64" y="151" fill="#f5fff6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="56" font-weight="760">ONE UI. THREE LANGUAGES.</text>
+  <text x="66" y="191" fill="#c6e2d7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="23">Plan for longer labels, different scripts, and real device layouts.</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans JP,sans-serif" filter="url(#shadow)">
+    <g transform="translate(62 243)">
+      <rect width="360" height="354" rx="28" fill="#f7faf7"/>
+      <rect x="23" y="23" width="80" height="34" rx="17" fill="#d8f3e6"/>
+      <text x="63" y="46" text-anchor="middle" fill="#176359" font-size="16" font-weight="700">EN</text>
+      <text x="25" y="105" fill="#153f3c" font-size="30" font-weight="700">Source text</text>
+      <rect x="24" y="136" width="312" height="54" rx="13" fill="#e0f1ed"/>
+      <text x="41" y="171" fill="#176b66" font-size="21" font-weight="600">Source language</text>
+      <text x="26" y="251" fill="#2a5350" font-size="25">Translations</text>
+      <rect x="23" y="285" width="159" height="45" rx="22" fill="#117f79"/>
+      <text x="102" y="315" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">Translate</text>
+    </g>
+    <g transform="translate(460 243)">
+      <rect width="360" height="354" rx="28" fill="#f7faf7"/>
+      <rect x="23" y="23" width="80" height="34" rx="17" fill="#d8f3e6"/>
+      <text x="63" y="46" text-anchor="middle" fill="#176359" font-size="16" font-weight="700">ES</text>
+      <text x="25" y="105" fill="#153f3c" font-size="30" font-weight="700">Texto original</text>
+      <rect x="24" y="136" width="312" height="54" rx="13" fill="#e0f1ed"/>
+      <text x="41" y="171" fill="#176b66" font-size="21" font-weight="600">Idioma de origen</text>
+      <text x="26" y="251" fill="#2a5350" font-size="25">Traducciones</text>
+      <rect x="23" y="285" width="159" height="45" rx="22" fill="#117f79"/>
+      <text x="102" y="315" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">Traducir</text>
+    </g>
+    <g transform="translate(858 243)">
+      <rect width="360" height="354" rx="28" fill="#f7faf7"/>
+      <rect x="23" y="23" width="80" height="34" rx="17" fill="#d8f3e6"/>
+      <text x="63" y="46" text-anchor="middle" fill="#176359" font-size="16" font-weight="700">JA</text>
+      <text x="25" y="105" fill="#153f3c" font-size="30" font-weight="700">原文</text>
+      <rect x="24" y="136" width="312" height="54" rx="13" fill="#e0f1ed"/>
+      <text x="41" y="171" fill="#176b66" font-size="21" font-weight="600">原文の言語</text>
+      <text x="26" y="251" fill="#2a5350" font-size="25">翻訳結果</text>
+      <rect x="23" y="285" width="159" height="45" rx="22" fill="#117f79"/>
+      <text x="102" y="315" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">翻訳</text>
+    </g>
+  </g>
+  <text x="64" y="670" fill="#b5d5c9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17">Existing catalog text · Illustrative layout · Not a localized app screenshot</text>
+</svg>

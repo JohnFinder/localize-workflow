@@ -1,0 +1,15 @@
+{
+  "source": "examples/source-zh-Hans.json",
+  "catalog": "examples/Localizable.xcstrings",
+  "cache": "work/translations.json",
+  "sourceLocale": "zh-Hans",
+  "sourceLanguageName": "Chinese (Simplified)",
+  "locales": ["en", "es", "ja"],
+  "localeNames": {
+    "en": "English",
+    "es": "Spanish",
+    "ja": "Japanese"
+  },
+  "model": "translategemma-27b-it",
+  "protectedTerms": ["SampleApp"]
+}

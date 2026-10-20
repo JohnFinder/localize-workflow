@@ -1,0 +1,45 @@
+{
+  "files": [
+    ".gitignore",
+    "AGENTS.md",
+    "LICENSE",
+    "README.md",
+    "RELEASE_REVIEW.md",
+    "examples/Localizable.xcstrings",
+    "examples/source-zh-Hans.json",
+    "localize.py",
+    "media/animation.html",
+    "media/hero.png",
+    "media/locale-comparison.svg",
+    "media/localization-story.gif",
+    "media/localization-story.mp4",
+    "media/manifest.json",
+    "media/rosettica-workspace.png",
+    "project.json",
+    "release-files.json",
+    "scripts/check_release.py",
+    "skills/localize-apple-app/LICENSE",
+    "skills/localize-apple-app/SKILL.md",
+    "skills/localize-apple-app/scripts/localize.py"
+  ],
+  "reviewedMedia": {
+    "media/animation.html": {
+      "sha256": "0587154a3ef916b0580aa16e2ef2449e66a1b9e79c6bfeaa5d2e3ab312ef63a4"
+    },
+    "media/hero.png": {
+      "sha256": "ca60c4e40738aaf84adbbf335345d5ac7860d4d8e0fd033fa7b291063d745751"
+    },
+    "media/locale-comparison.svg": {
+      "sha256": "a2a94c61eb431716b92f500026fed2cbd27d55cbb7c8ad6b2bff6433e37d9ff9"
+    },
+    "media/localization-story.gif": {
+      "sha256": "2dcac44afcfa15f049aeb99438a9cd5b76cc67282eab46919aa810f99040b951"
+    },
+    "media/localization-story.mp4": {
+      "sha256": "9eef64a75eb18b219dfe2f53de9710fddd7fce40f90dc91a99e67100453f4878"
+    },
+    "media/rosettica-workspace.png": {
+      "sha256": "4bc7657efa44b21f7e3af2ce16a4b2939f644e14558bd79278dc6b4916b0dfcc"
+    }
+  }
+}

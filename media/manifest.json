@@ -1,0 +1,9 @@
+{
+  "html": "animation.html",
+  "duration": 8,
+  "fps": 30,
+  "canvasId": "art",
+  "formats": [
+    {"name": "localization-story", "width": 1280, "height": 720, "index": 0}
+  ]
+}
